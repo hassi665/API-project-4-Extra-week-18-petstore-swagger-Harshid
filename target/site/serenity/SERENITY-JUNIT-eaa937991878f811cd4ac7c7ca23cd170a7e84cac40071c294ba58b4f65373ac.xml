@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.petstore.swagger.studentinfo.UserCURDTestWithSteps" skipped="0" tests="1" time="2.96" timestamp="2023-01-03T19:29:41.986Z[Europe/London]"><testcase classname="io.petstore.swagger.studentinfo.UserCURDTestWithSteps" name="Verify if the user was added to the application"/></testsuite>
